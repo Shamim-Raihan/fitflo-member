@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "751087117409",
+    "project_id": "fitflo-6cbc1",
+    "storage_bucket": "fitflo-6cbc1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:751087117409:android:0e407213a07650680fb620",
+        "android_client_info": {
+          "package_name": "com.example.fitflo_v2_1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "751087117409-9padgbr6ut5onrjo5ihtrc64lk5mrl7t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARdVKV2ntlvz5GVG_AxWIOjfjHHUrOYDM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "751087117409-9padgbr6ut5onrjo5ihtrc64lk5mrl7t.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "751087117409-ju1fk0q8v11fu5b4gmca16l4tfgp0p2d.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.fitflowSuperadmin.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:751087117409:android:82d5ec008ac23ec30fb620",
+        "android_client_info": {
+          "package_name": "com.example.fitflow_superadmin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "751087117409-9padgbr6ut5onrjo5ihtrc64lk5mrl7t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARdVKV2ntlvz5GVG_AxWIOjfjHHUrOYDM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "751087117409-9padgbr6ut5onrjo5ihtrc64lk5mrl7t.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "751087117409-ju1fk0q8v11fu5b4gmca16l4tfgp0p2d.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.fitflowSuperadmin.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
